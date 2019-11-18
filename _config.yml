@@ -1,7 +1,7 @@
 # Site settings
 title: Bwen
 SEOTitle: Bwen
-header-img: img/post-bg-coeff.jpg
+header-img: img/post-bg-coffee.jpeg
 keyword: "Blog"
 url: "http://bwen19.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
